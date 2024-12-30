@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">cpuperfdemo_optimal</string>
+    <string name="remaining">Remaining: %s</string>
+</resources>
